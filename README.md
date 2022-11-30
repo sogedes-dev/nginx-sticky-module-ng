@@ -1,7 +1,12 @@
+# NOTE SOGEDES
+
+This was forked to preserve the latest fixed version of this module. If the
+fork ever gehts merged, consider using the original repostiory from
+https://github.com/Refinitiv/nginx-sticky-module-ng to preserve updates.
+
 # Nginx Sticky Module 
 
-
-modified and extended version; see Changelog.txt 
+Modified and extended version; see Changelog.txt 
 
 # Description
 
